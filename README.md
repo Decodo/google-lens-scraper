@@ -87,7 +87,7 @@ Example output result:
 
 ## License
 All code is released under the [MIT License](https://github.com/Decodo/Decodo/blob/master/LICENSE).
-## Read more
+## Other useful tools
 🗺️ [Google Maps scraper](https://github.com/Decodo/google-maps-scraper)
 
 📰 [Google News scraper](https://github.com/Decodo/Google-News-scraper)
