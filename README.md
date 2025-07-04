@@ -44,7 +44,7 @@ git clone https://github.com/Decodo/google-lens-scraper.git
 ```
 payload = {
       "target": "google_lens", # Choose a target
-      "query": "[your image URL]", # Enter the image URL to search with
+      "query": "[image URL]", # Enter the image URL to search with
       "headless": "html", # Remove this line to disable JS rendering
       "parse": True # Change to False to skip parsing
 }
